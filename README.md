@@ -1,2 +1,2 @@
 
-Assignment 2 Part A of Web Programming
+Assignment 2 of Web Programming
